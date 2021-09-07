@@ -10,3 +10,7 @@
  6° Quick View
  7° Stack Layout
  8° Conditional Layout
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83875408/132345277-b8e43fce-cb1a-4bb0-be8f-ceecb6afe326.PNG" width="400px" />
+</div>
